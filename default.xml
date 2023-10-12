@@ -39,6 +39,6 @@
   <project name="kernel_platform/prebuilts/jdk/jdk11" revision="8c34c76b55ec407215c62fa9277a2c29a42d2456" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
   <project name="kernel_platform/system/tools/mkbootimg" path="kernel_platform/tools/mkbootimg" revision="db9f3716c72d7612fc507b89d1fc3876f061350e" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
   <project name="kernel_platform/toolchain/prebuilts/ndk/r23" path="kernel_platform/prebuilts/ndk-r23" revision="93532f3052c14fbb337ff57d5732128dc7481ee6" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
-  <project name="kernelplatform/prebuilts-master/clang/host/linux-x86" path="kernel_platform/prebuilts/clang/host/linux-x86" revision="d06d8047b1c95bb26a8e0e1b212ab56a97576d3e" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
+  <project name="kernelplatform/prebuilts-master/clang/host/linux-x86" path="kernel_platform/prebuilts/clang/host/linux-x86" revision="d06d8047b1c95bb26a8e0e1b212ab56a97576d3e" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel" clone-depth="1"/>
   <project name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="kernel_platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" revision="58f2f7c11b5309aa4d15079b398852670b5baf7b" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
 </manifest>
