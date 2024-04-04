@@ -1,5 +1,5 @@
 ```
-repo init -u https://github.com/xiaomi-8550/kernelplatform_manifest.git -b KERNEL.PLATFORM.2.0.r1-14100-kernel.0
+repo init -u https://github.com/chirisl7/kernelplatform_manifest.git -b bengal_515
 ```
 ```
 BUILD_CONFIG=common/build.config.gki.aarch64 build/build.sh
